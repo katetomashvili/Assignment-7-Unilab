@@ -53,13 +53,3 @@
     position: absolute;
 }
 /* Keyframes */
-@keyframes highway{
-    100%{
-        transform: translateX(-3400px);
-    }
-}
-@keyframes car{
-    100% { transform: translateY(-2px); }
-    100% { transform: translateY(-2px); }
-    100% { transform: translateY(-2px); }
-}
